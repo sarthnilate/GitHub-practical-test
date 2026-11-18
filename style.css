@@ -86,3 +86,26 @@ footer {
 .dark-mode h2 {
     color: #9fc6ff;
 }
+.navbar {
+    background: #1b2d49;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #a8caff;
+}
