@@ -109,3 +109,12 @@ footer {
 .navbar a:hover {
     color: #a8caff;
 }
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 8px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
